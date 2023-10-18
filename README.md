@@ -8,12 +8,12 @@ Use this starter template to create rich documentation and interactive tutorials
 
 You can edit with Xcode 15 and its Documentation Preview assistant editor, which gives you a view of your documentation as you type, allowing you to iterate on your documentation without leaving the Xcode.  Or, you can use your favorite editor and generate documentation from a [Swift based command line][Swift based command line].  The generated Swift-DocC documentation can be published to a static web host.
 
-The template makes use of the [Swift Package Manager command plugin for Swift-DocC][Swift Package Manager command plugin for Swift-DocC], which has [Swift-DocC documentation site][Swift-DocC documentation site].
+The template makes use of the [Swift Package Manager command plugin for Swift-DocC][Swift Package Manager command plugin for Swift-DocC], which has the [Swift-DocC documentation site][Swift-DocC documentation site].
 
-[Swift based command line]: [https://www.swift.org/install] "Swift development is officially supported on Apple platforms, Linux, and Windows."
-[Add Code Listings]: [https://www.swift.org/documentation/docc/formatting-your-documentation-content#Add-Code-Listings] "code listings, or fenced code blocks"
-[Swift Package Manager command plugin for Swift-DocC]: [https://github.com/apple/swift-docc-plugin] "The Swift-DocC plugin is a Swift Package Manager command plugin that supports building documentation for SwiftPM libraries and executables."
-[Swift-DocC documentation site]: [https://apple.github.io/swift-docc-plugin/documentation/swiftdoccplugin] "Swift-DocC documentation for the plugin."
+[Swift based command line]: https://www.swift.org/install "Swift development is officially supported on Apple platforms, Linux, and Windows."
+[Add Code Listings]: https://www.swift.org/documentation/docc/formatting-your-documentation-content#Add-Code-Listings "code listings, or fenced code blocks"
+[Swift Package Manager command plugin for Swift-DocC]: https://github.com/apple/swift-docc-plugin "The Swift-DocC plugin is a Swift Package Manager command plugin that supports building documentation for SwiftPM libraries and executables."
+[Swift-DocC documentation site]: https://apple.github.io/swift-docc-plugin/documentation/swiftdoccplugin "Swift-DocC documentation for the plugin."
 
 ## Topics
 
