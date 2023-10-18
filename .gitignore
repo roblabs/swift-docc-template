@@ -1,5 +1,7 @@
 # Generated from `swift package resolve`
 .build/
+
+# Generated when opened in Xcode
 .swiftpm/
 
 # Generated from `xcrun docc preview Documentation.docc`
