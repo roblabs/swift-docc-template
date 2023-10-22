@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "formatVersion": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "generator": "docc-generate-symbol-graph"
+  },
+  "module": {
+    "bystanders": [],
+    "isVirtual": false,
+    "name": "docctemplate",
+    "platform": {},
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  },
+  "relationships": [],
+  "symbols": []
+}
