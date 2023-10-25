@@ -6,3 +6,6 @@
 
 # Generated from `xcrun docc preview Documentation.docc`
 .docc-build/
+
+tmp/
+.DS_Store
